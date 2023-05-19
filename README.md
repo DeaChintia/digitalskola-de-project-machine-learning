@@ -1,1 +1,1 @@
-# digitalskola-de-project-machine-learning
+# Project 7 Machine Learning Digital Skola
